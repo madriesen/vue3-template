@@ -1,4 +1,4 @@
-# facturaid
+# Vue 3 Starter Template
 
 ## Project setup
 ```
